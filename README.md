@@ -34,12 +34,5 @@ To run this app locally, follow these steps:
    streamlit run app.py
    ```
 
-## Deployment on Streamlit Cloud
-To deploy this app for free on Streamlit Cloud:
-1. Push your repository to GitHub.
-2. Go to [Streamlit Cloud](https://streamlit.io/cloud) and link your GitHub account.
-3. Deploy the app by selecting your repository and branch.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
